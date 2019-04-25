@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917439320860",
+    "firebase_url": "https://academics-60c04.firebaseio.com",
+    "project_id": "academics-60c04",
+    "storage_bucket": "academics-60c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917439320860:android:a9a7afa70eac7e43",
+        "android_client_info": {
+          "package_name": "com.e.academics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917439320860-uui0dbadh7iqambqmmvjb5sbojpr1mfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.academics",
+            "certificate_hash": "cb61b506a1e2525b0da18b03aad1ca8c49b5bf59"
+          }
+        },
+        {
+          "client_id": "917439320860-beh3le0v0erkbqa7dv47qohfkov3pn9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYHzmXsySTpJ1wOJ5iEGZmFZDD6Y43M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917439320860-beh3le0v0erkbqa7dv47qohfkov3pn9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
